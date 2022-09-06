@@ -1,0 +1,89 @@
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\212044.exe.config
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\212044.exe
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\212044.pdb
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\BouncyCastle.Crypto.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\Google.Protobuf.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Compression.LZ4.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Hash.xxHash.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\MySql.Data.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Buffers.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Memory.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Numerics.Vectors.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\Ubiety.Dns.Core.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\ZstdNet.dll
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\Google.Protobuf.pdb
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\Google.Protobuf.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Compression.LZ4.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\K4os.Hash.xxHash.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\MySql.Data.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Buffers.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Memory.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Numerics.Vectors.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.csproj.AssemblyReference.cache
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.csproj.SuggestedBindingRedirects.cache
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\_212044.frmMenu.resources
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\_212044.Properties.Resources.resources
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.csproj.GenerateResource.cache
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.csproj.CoreCompileInputs.cache
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.csproj.CopyComplete
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.exe
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\212044.pdb
+E:\Etec - Materiais\2° Módulo\Desenvolvimento de Sistemas - 2° Módulo\212044\212044\obj\Debug\_212044.Views.FrmCidade.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\212044.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.frmMenu.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.Properties.Resources.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.Views.FrmCategoria.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.Views.FrmCidade.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.Views.FrmCliente.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\_212044.Views.FrmMarca.resources
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\212044.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\212044.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\212044.exe
+C:\Users\Usuario\Desktop\212044\212044\obj\Debug\212044.pdb
+C:\212044\212044\bin\Debug\212044.exe.config
+C:\212044\212044\bin\Debug\212044.exe
+C:\212044\212044\bin\Debug\212044.pdb
+C:\212044\212044\bin\Debug\BouncyCastle.Crypto.dll
+C:\212044\212044\bin\Debug\Google.Protobuf.dll
+C:\212044\212044\bin\Debug\K4os.Compression.LZ4.dll
+C:\212044\212044\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\212044\212044\bin\Debug\K4os.Hash.xxHash.dll
+C:\212044\212044\bin\Debug\MySql.Data.dll
+C:\212044\212044\bin\Debug\System.Buffers.dll
+C:\212044\212044\bin\Debug\System.Memory.dll
+C:\212044\212044\bin\Debug\System.Numerics.Vectors.dll
+C:\212044\212044\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\212044\212044\bin\Debug\Ubiety.Dns.Core.dll
+C:\212044\212044\bin\Debug\ZstdNet.dll
+C:\212044\212044\bin\Debug\Google.Protobuf.pdb
+C:\212044\212044\bin\Debug\Google.Protobuf.xml
+C:\212044\212044\bin\Debug\K4os.Compression.LZ4.xml
+C:\212044\212044\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\212044\212044\bin\Debug\K4os.Hash.xxHash.xml
+C:\212044\212044\bin\Debug\MySql.Data.xml
+C:\212044\212044\bin\Debug\System.Buffers.xml
+C:\212044\212044\bin\Debug\System.Memory.xml
+C:\212044\212044\bin\Debug\System.Numerics.Vectors.xml
+C:\212044\212044\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\212044\212044\obj\Debug\_212044.frmMenu.resources
+C:\212044\212044\obj\Debug\_212044.Properties.Resources.resources
+C:\212044\212044\obj\Debug\_212044.Views.FrmCategoria.resources
+C:\212044\212044\obj\Debug\_212044.Views.FrmCidade.resources
+C:\212044\212044\obj\Debug\_212044.Views.FrmCliente.resources
+C:\212044\212044\obj\Debug\_212044.Views.FrmMarca.resources
+C:\212044\212044\obj\Debug\212044.csproj.GenerateResource.cache
+C:\212044\212044\obj\Debug\212044.csproj.CoreCompileInputs.cache
+C:\212044\212044\obj\Debug\212044.csproj.CopyComplete
+C:\212044\212044\obj\Debug\212044.exe
+C:\212044\212044\obj\Debug\212044.pdb
+G:\Meu Drive\Etec - Matérias\2º Módulo\Desenvolvimento de Sistemas\212044\212044\obj\Debug\212044.csprojAssemblyReference.cache
+G:\Meu Drive\Etec - Matérias\2º Módulo\Desenvolvimento de Sistemas\212044\212044\obj\Debug\212044.exe
+G:\Meu Drive\Etec - Matérias\2º Módulo\Desenvolvimento de Sistemas\212044\212044\obj\Debug\212044.pdb
+C:\212044\212044\obj\Debug\_212044.Views.FrmProduto.resources
+C:\212044\212044\obj\Debug\_212044.Views.FrmVenda.resources
+C:\212044\212044\obj\Debug\212044.csproj.AssemblyReference.cache
+C:\212044\212044\obj\Debug\212044.csproj.SuggestedBindingRedirects.cache
